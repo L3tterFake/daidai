@@ -34,7 +34,7 @@ const webLinks = [
 
     {
         title: 'Website',
-        url: '#',
+        url: 'https://daistoreone.vercel.app/',
         type: 'market',
         icon: '/web.svg',
         on: true
@@ -48,13 +48,6 @@ const webLinks = [
         on: true
     },
 
-    {
-        title: 'maker website',
-        url: 'https://vjy.me',
-        type: 'market',
-        icon: '/vjy.png',
-        on: true
-    },
 ];
 
 export default webLinks;
